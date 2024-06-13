@@ -114,6 +114,4 @@
 5. **Submit a pull request.**
 
 
----
 
-This README file provides a comprehensive guide for users and developers to understand, set up, and contribute to the AgroGen project. Feel free to customize it further based on your specific needs and project updates.
