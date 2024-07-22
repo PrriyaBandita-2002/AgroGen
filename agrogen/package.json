@@ -11,9 +11,12 @@
   "dependencies": {
     "@headlessui/react": "^2.1.2",
     "@types/jsonwebtoken": "^9.0.6",
+    "bcryptjs": "^2.4.3",
     "cloudinary": "^2.3.0",
     "graphql-request": "^7.1.0",
     "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.1",
     "next": "14.2.5",
     "next-auth": "^4.24.7",
     "react": "^18",
